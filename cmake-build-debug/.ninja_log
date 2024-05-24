@@ -1,0 +1,10 @@
+# ninja log v5
+4	1433	1716507383834883733	CMakeFiles/OOP_6_4.dir/main.cpp.o	1c0ec51fd570547a
+1	6852	1716508867527484622	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	c641e8e751cab390
+1433	1552	1716507383962264783	OOP_6_4	f367453fd6cc0aab
+6	2048	1716508998390009660	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	137c89c6b26b6768
+12	197	1716508920487613000	lib/libgtest.a	fa91dbdd313074f4
+198	1894	1716508922172557952	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	843285af0546c21f
+7	140	1716508996490256000	lib/libgtest_main.a	8b1850f4895dd58d
+20	1951	1716511708333808102	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	137c89c6b26b6768
+1951	2112	1716511708499165361	Google_tests/Google_Tests_run	b65c36c666d9d26b
